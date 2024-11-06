@@ -128,6 +128,7 @@ def main():
             st.markdown(f"👤 You:** {question}")
             st.markdown(f"🤖 AI:** {answer}")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
+
 
