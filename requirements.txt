@@ -1,5 +1,5 @@
-PyPDF2
-langchain
-faiss-cpu
-google-generative-ai
-streamlit
+PyPDF2==3.0.1
+langchain==0.0.270
+faiss-cpu==1.7.3
+google-generative-ai==0.4.1
+streamlit==1.26.0
