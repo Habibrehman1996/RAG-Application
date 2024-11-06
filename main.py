@@ -100,7 +100,7 @@ def main():
 
     st.sidebar.markdown("---")
     st.sidebar.markdown(
-        "<footer style='text-align: center;'>Created by <span style='font-weight: 600;'>Ghulam Mahiyudin</span></footer>",
+        "<footer style='text-align: center;'>Created by <span style='font-weight: 600;'>Habib Ur Rehman</span></footer>",
         unsafe_allow_html=True)
 
     # Create conversational chain
