@@ -74,7 +74,7 @@ def user_input(user_question, chain, vector_store):
 
 def main():
     st.set_page_config(page_title="Chat with PDF", layout="centered", page_icon="📄")
-    st.title("📄 Chat with Your PDF Document")
+    st.title("📄 Chat with Your PDF Document (RAG)")
 
     # Initialize chat history and vector store in session state
     if 'chat_history' not in st.session_state:
